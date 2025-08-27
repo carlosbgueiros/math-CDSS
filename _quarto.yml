@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "BAS: Mathematics for Social Scientists"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: materials.qmd
+        text: Materials
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual

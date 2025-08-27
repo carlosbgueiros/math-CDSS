@@ -1,0 +1,68 @@
+---
+title: "Materials"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+editor: visual
+---
+
+::: {.callout-note}
+Slides and problem sets will appear here as they’re released. Solutions contain final answers only (not full derivations).
+:::
+
+#### Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec01-intro.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps01-set-theory.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol01-set-theory.pdf -->
+
+#### Lecture 2 — 10 Sep 2025: Functions & Mappings
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec02-functions.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps02-functions.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol02-functions.pdf -->
+
+#### Lecture 3 — 17 Sep 2025: Analysis I — Norms, Distances, Continuity
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec03-analysis-I.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps03-analysis-I.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol03-analysis-I.pdf -->
+
+#### Lecture 4 — 24 Sep 2025: Analysis II — Differentiation; partials; gradients; chain rule
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec04-analysis-II.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps04-analysis-II.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol04-analysis-II.pdf -->
+
+#### Lecture 5 — 01 Oct 2025: Unconstrained optimization
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec05-unconstrained-optimization.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps05-unconstrained-optimization.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol05-unconstrained-optimization.pdf -->
+
+#### Lecture 6 — 08 Oct 2025: Integration
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec06-integration.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps06-integration.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol06-integration.pdf -->
+
+#### Lecture 7 — 15 Oct 2025: Linear Algebra I
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec07-la-I.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps07-la-I.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol07-la-I.pdf -->
+
+#### Lecture 8 — 22 Oct 2025: Linear Algebra II
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec08-la-II.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps08-la-II.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol08-la-II.pdf -->
+
+#### Lecture 9 — 29 Oct 2025: Linear Algebra III
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec09-la-III.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps09-la-III.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol09-la-III.pdf -->
+
+#### Lecture 10 — 05 Nov 2025: Linear Regression (least squares)
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec10-ols.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps10-ols.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol10-ols.pdf -->
+
+#### Lecture 11 — 12 Nov 2025: Probability I
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec11-prob-I.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps11-prob-I.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol11-prob-I.pdf -->
+
+#### Lecture 12 — 19 Nov 2025: Probability II
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec12-prob-II.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps12-prob-II.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol12-prob-II.pdf -->
+
+#### Lecture 13 — 26 Nov 2025: Probability III
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec13-prob-III.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps13-prob-III.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol13-prob-III.pdf -->
+
+#### Lecture 14 — 03 Dec 2025: Probability IV; Final Q&A
+- **Slides:** _PDF — coming soon_  <!-- files/slides/lec14-prob-IV.pdf -->
+- **Exercises:** _PDF — coming soon_  <!-- files/exercises/ps14-prob-IV.pdf -->  \|  **Solutions:** _PDF — coming soon_  <!-- files/solutions/sol14-prob-IV.pdf -->

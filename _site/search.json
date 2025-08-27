@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BAS: Mathematics for Social Scientists",
+    "section": "",
+    "text": "It is increasingly important for modern social scientists to have a level of mathematical literacy, as mathematical research methods such as statistics and formal modeling have entered the mainstream. This course is intended to provide an introduction to mathematical logic and rigor, and to some fundamental mathematical concepts that form the foundation of the modern subject. The course covers introductory set and function theory, including analysis of functions, and includes sections on both probability and linear algebra, which together are the basis of data analysis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "Note\n\n\n\nSlides and problem sets will appear here as they’re released. Solutions contain final answers only (not full derivations).\n\n\n\nLecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 2 — 10 Sep 2025: Functions & Mappings\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 3 — 17 Sep 2025: Analysis I — Norms, Distances, Continuity\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 4 — 24 Sep 2025: Analysis II — Differentiation; partials; gradients; chain rule\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 5 — 01 Oct 2025: Unconstrained optimization\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 6 — 08 Oct 2025: Integration\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 7 — 15 Oct 2025: Linear Algebra I\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 8 — 22 Oct 2025: Linear Algebra II\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 9 — 29 Oct 2025: Linear Algebra III\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 10 — 05 Nov 2025: Linear Regression (least squares)\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 11 — 12 Nov 2025: Probability I\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 12 — 19 Nov 2025: Probability II\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 13 — 26 Nov 2025: Probability III\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon \n\n\n\nLecture 14 — 03 Dec 2025: Probability IV; Final Q&A\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Download Syllabus: PDF"
+  },
+  {
+    "objectID": "syllabus.html#attendance-policy",
+    "href": "syllabus.html#attendance-policy",
+    "title": "Syllabus",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nWhile the instructor strongly encourage attendance, this course is voluntary. If you decide to participate I expect you to attend the class actively and full time each session."
+  },
+  {
+    "objectID": "syllabus.html#class-schedule",
+    "href": "syllabus.html#class-schedule",
+    "title": "Syllabus",
+    "section": "Class Schedule",
+    "text": "Class Schedule\n\n\n\n\nDate\nDay\nTime\nRoom\n\n\n\n\n29.08.2025\nFriday\n09:15–17:15\nC 217 (A5, 6 Bauteil C)\n\n\n05.09.2025\nFriday\n14:00–17:15\nB 317 (A5, 6 Bauteil B)\n\n\n12.09.2025\nFriday\n14:00–17:15\nB 317 (A5, 6 Bauteil B)\n\n\n19.09.2025\nFriday\n14:00–17:15\nB 317 (A5, 6 Bauteil B)\n\n\n26.09.2025\nFriday\n14:00–17:15\nB 317 (A5, 6 Bauteil B)\n\n\n10.10.2025\nFriday\n14:00–17:15\nB 317 (A5, 6 Bauteil B)\n\n\n17.10.2025\nFriday\n14:00–17:15\nB 317 (A5, 6 Bauteil B)"
+  },
+  {
+    "objectID": "syllabus.html#contents",
+    "href": "syllabus.html#contents",
+    "title": "Syllabus",
+    "section": "Contents",
+    "text": "Contents\n\nSet Theory: subsets, indexed families, Cartesian product; relations & operations; propositional logic, truth tables, implications, equivalence\n\nFunctions: identity and inverse; injective/surjective/bijective; composition\n\nAnalysis: distances, norms, continuity; limits; poly/exp/log; differentiation in \\(\\mathbb{R}\\) and \\(\\mathbb{R}^n\\) (partials, chain rule); unconstrained maxima/minima (1st/2nd derivative tests); integration (substitution, parts; applications incl. densities); linear-regression application (if time permits)\n\nLinear Algebra: vectors/matrices; SLEs & Gaussian elimination; inverses; diagonal/triangular/symmetric; trace, determinant, eigenvalues/eigenvectors\n\nProbability: counting; LOTP; conditional probability & Bayes’ Law; Simpson’s paradox; independence; discrete/continuous RVs; PMF/PDF/CDF"
+  },
+  {
+    "objectID": "materials.html#readings",
+    "href": "materials.html#readings",
+    "title": "Materials",
+    "section": "Readings",
+    "text": "Readings\nHere are some recommended readings. You are not required to read all of those books prior to class.\n\nGeneral\n\nMoore/Siegel (2013) An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.\nGill (2006) Another introduction to mathematical principles for incoming social science graduate students.\nSimon/Blume (1994) A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.\nSydsaeter/Hammond (2008) Another standard mathematics textbook for economics undergraduates.\n\nCalculus\n\nSpivak (2006) A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.\nProtter/Morrey (1991) A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.\n\nLinear Algebra\n\nLay (2011) A standard introduction for mathematics undergraduates.\nStrang (2005) Another standard introduction for mathematics undergraduates. Strang’s MIT video lectures accompanying the textbook are available online for free.\nHefferon (2014) A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free1.\nAxler (2015) A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.\nThe Matrix Cookbook2 An overview over some more advanced matrix calculus.\n\nProbability Theory\n\nDeGroot/Schervish (2011) A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises."
+  },
+  {
+    "objectID": "materials.html#additional-resources",
+    "href": "materials.html#additional-resources",
+    "title": "Materials",
+    "section": "Additional Resources",
+    "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications."
+  },
+  {
+    "objectID": "materials.html#references",
+    "href": "materials.html#references",
+    "title": "Materials",
+    "section": "References",
+    "text": "References\nAxler, S. (2015). Linear Algebra Done Right (3rd ed.). Undergraduate Texts in Mathematics. Springer.\nDeGroot, M. H. and M. J. Schervish (2011). Probability and Statistics (4th ed.). London: Pearson.\nGill, J. (2006). Essential Mathematics for Political and Social Research. Cambridge University Press.\nHefferon, J. (2014). Linear Algebra.\nLay, D. C. (2011). Linear Algebra and Its Applications. London: Pearson.\nMoore, W. H. and D. A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton: Princeton University Press.\nProtter, M. and C. Morrey (1991). A First Course in Real Analysis (2nd ed.). Undergraduate Texts in Mathematics. Springer.\nSimon, C. P. and L. Blume (1994). Mathematics for Economists. New York: Norton and Company.\nSpivak, M. (2006). Calculus (3rd ed.). Cambridge University Press.\nStrang, G. (2005). Linear Algebra and Its Applications (4th ed.). Brooks Cole.\nSydsaeter, K. and P. Hammond (2008). Essential Mathematics for Economic Analysis (3rd ed.). Essex: Pearson."
+  },
+  {
+    "objectID": "syllabus.html#additional-resources",
+    "href": "syllabus.html#additional-resources",
+    "title": "Mathematics for Political Science",
+    "section": "Additional Resources",
+    "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, ploting and undestanding limits, derivatives, and integrals and their applications."
+  },
+  {
+    "objectID": "materials.html#problem-sets",
+    "href": "materials.html#problem-sets",
+    "title": "Materials",
+    "section": "Problem Sets",
+    "text": "Problem Sets\n\nSet Theory I — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nSet Theory II — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nAnalysis I — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nAnalysis II — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nLinear Algebra I — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nLinear Algebra II — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nProbability I — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\nProbability II — [PDF — coming soon] | Solutions — [PDF — coming soon]\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote: Solutions contain the final answers only (not full derivations)."
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThis course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. Each day consists of lectures and exercise sessions. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
+  },
+  {
+    "objectID": "materials.html#slides",
+    "href": "materials.html#slides",
+    "title": "Materials",
+    "section": "",
+    "text": "Lecture slides — [PDF — coming soon]"
+  },
+  {
+    "objectID": "materials.html#footnotes",
+    "href": "materials.html#footnotes",
+    "title": "Materials",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://hefferon.net/linearalgebra/↩︎\nhttp://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf↩︎"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "BAS: Mathematics for Social Scientists",
+    "section": "",
+    "text": "It is increasingly important for modern social scientists to have a level of mathematical literacy, as mathematical research methods such as statistics and formal modeling have entered the mainstream. This course is intended to provide an introduction to mathematical logic and rigor, and to some fundamental mathematical concepts that form the foundation of the modern subject. The course covers introductory set and function theory, including analysis of functions, and includes sections on both probability and linear algebra, which together are the basis of data analysis."
+  },
+  {
+    "objectID": "index.html#course-objectives",
+    "href": "index.html#course-objectives",
+    "title": "BAS: Mathematics for Social Scientists",
+    "section": "Course Objectives",
+    "text": "Course Objectives\n\nTo obtain confidence with mathematical language and notation\n\nTo learn essential mathematical principles and thought\n\nTo learn or revise specific mathematical concepts necessary for quantitative work, such as matrix algebra, differentiation, and probability theory"
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "BAS: Mathematics for Social Scientists",
+    "section": "Course Structure",
+    "text": "Course Structure\nWeekly 90-minute lectures with worked examples. Optional problem sets help prepare for the exam; answer keys provide final results (not full derivations). Short readings will be circulated—please review them and the slides before class.\n\n\n\n\n\n\nQuick links\n\n\n\n\nSyllabus (dates & contents): Open Syllabus\n\nMaterials (slides & problem sets): Open Materials"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "BAS: Mathematics for Social Scientists",
+    "section": "Contact",
+    "text": "Contact\nInstructor: Carlos Gueiros\nEmail: cgueiros@uni-mannheim.de\nOffice Hours: Tue 10:00–11:30 (please email for appointment; other hours also possible)\nOffice: B301, A5 6, Mannheim"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "BAS: Mathematics for Social Scientists",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSolutions comprise final answers only, not full derivations.↩︎"
+  },
+  {
+    "objectID": "syllabus.html#schedule-fall-2025",
+    "href": "syllabus.html#schedule-fall-2025",
+    "title": "Syllabus",
+    "section": "Schedule (Fall 2025)",
+    "text": "Schedule (Fall 2025)\n\nLecture 1 — 03.09.2025 — Introduction; Set Theory and Logic\n\nLecture 2 — 10.09.2025 — Functions and Mappings\n\nLecture 3 — 17.09.2025 — Analysis I: Norms, Distances, Continuity\n\nLecture 4 — 24.09.2025 — Analysis II: Differentiation in \\(\\mathbb{R}\\) and \\(\\mathbb{R}^n\\); partial derivatives, gradients, chain rule\n\nLecture 5 — 01.10.2025 — Analysis III: Unconstrained optimization (critical points; first/second-derivative tests; practical examples)\n\nLecture 6 — 08.10.2025 — Analysis IV: Integration Techniques and Applications\n\nLecture 7 — 15.10.2025 — Linear Algebra I: Vectors, Matrices, Linear Systems\n\nLecture 8 — 22.10.2025 — Linear Algebra II: Matrix Operations, Inverses, Determinants\n\nLecture 9 — 29.10.2025 — Linear Algebra III: Eigenvalues and Eigenvectors\n\nLecture 10 — 05.11.2025 — Applications: Linear Regression (matrix formulation, least squares)\n\nLecture 11 — 12.11.2025 — Probability I: Counting, Probability Axioms, Conditional Probability\n\nLecture 12 — 19.11.2025 — Probability II: Bayes’ Law, Independence, Simpson’s Paradox\n\nLecture 13 — 26.11.2025 — Probability III: Random Variables, Distributions, CDFs\n\nLecture 14 — 03.12.2025 — Final Q&A and Exam Preparation"
+  },
+  {
+    "objectID": "materials.html#lecture-1-03-sep-2025-introduction-set-theory-logic",
+    "href": "materials.html#lecture-1-03-sep-2025-introduction-set-theory-logic",
+    "title": "Materials",
+    "section": "Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic",
+    "text": "Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-2-10-sep-2025-functions-mappings",
+    "href": "materials.html#lecture-2-10-sep-2025-functions-mappings",
+    "title": "Materials",
+    "section": "Lecture 2 — 10 Sep 2025: Functions & Mappings",
+    "text": "Lecture 2 — 10 Sep 2025: Functions & Mappings\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-3-17-sep-2025-analysis-i-norms-distances-continuity",
+    "href": "materials.html#lecture-3-17-sep-2025-analysis-i-norms-distances-continuity",
+    "title": "Materials",
+    "section": "Lecture 3 — 17 Sep 2025: Analysis I — Norms, Distances, Continuity",
+    "text": "Lecture 3 — 17 Sep 2025: Analysis I — Norms, Distances, Continuity\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-4-24-sep-2025-analysis-ii-differentiation-in-mathbbr-and-mathbbrn-partials-gradients-chain-rule",
+    "href": "materials.html#lecture-4-24-sep-2025-analysis-ii-differentiation-in-mathbbr-and-mathbbrn-partials-gradients-chain-rule",
+    "title": "Materials",
+    "section": "Lecture 4 — 24 Sep 2025: Analysis II — Differentiation in \\(\\mathbb{R}\\) and \\(\\mathbb{R}^n\\); partials; gradients; chain rule",
+    "text": "Lecture 4 — 24 Sep 2025: Analysis II — Differentiation in \\(\\mathbb{R}\\) and \\(\\mathbb{R}^n\\); partials; gradients; chain rule\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-5-01-oct-2025-analysis-iii-unconstrained-optimization-critical-points-firstsecond-derivative-tests",
+    "href": "materials.html#lecture-5-01-oct-2025-analysis-iii-unconstrained-optimization-critical-points-firstsecond-derivative-tests",
+    "title": "Materials",
+    "section": "Lecture 5 — 01 Oct 2025: Analysis III — Unconstrained optimization (critical points; first/second-derivative tests)",
+    "text": "Lecture 5 — 01 Oct 2025: Analysis III — Unconstrained optimization (critical points; first/second-derivative tests)\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-6-08-oct-2025-analysis-iv-integration-techniques-applications",
+    "href": "materials.html#lecture-6-08-oct-2025-analysis-iv-integration-techniques-applications",
+    "title": "Materials",
+    "section": "Lecture 6 — 08 Oct 2025: Analysis IV — Integration techniques & applications",
+    "text": "Lecture 6 — 08 Oct 2025: Analysis IV — Integration techniques & applications\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-7-15-oct-2025-linear-algebra-i-vectors-matrices-linear-systems",
+    "href": "materials.html#lecture-7-15-oct-2025-linear-algebra-i-vectors-matrices-linear-systems",
+    "title": "Materials",
+    "section": "Lecture 7 — 15 Oct 2025: Linear Algebra I — Vectors, Matrices, Linear Systems",
+    "text": "Lecture 7 — 15 Oct 2025: Linear Algebra I — Vectors, Matrices, Linear Systems\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-8-22-oct-2025-linear-algebra-ii-matrix-operations-inverses-determinants",
+    "href": "materials.html#lecture-8-22-oct-2025-linear-algebra-ii-matrix-operations-inverses-determinants",
+    "title": "Materials",
+    "section": "Lecture 8 — 22 Oct 2025: Linear Algebra II — Matrix operations, inverses, determinants",
+    "text": "Lecture 8 — 22 Oct 2025: Linear Algebra II — Matrix operations, inverses, determinants\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-9-29-oct-2025-linear-algebra-iii-eigenvalues-eigenvectors",
+    "href": "materials.html#lecture-9-29-oct-2025-linear-algebra-iii-eigenvalues-eigenvectors",
+    "title": "Materials",
+    "section": "Lecture 9 — 29 Oct 2025: Linear Algebra III — Eigenvalues & eigenvectors",
+    "text": "Lecture 9 — 29 Oct 2025: Linear Algebra III — Eigenvalues & eigenvectors\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-10-05-nov-2025-applications-linear-regression-matrix-formulation-least-squares",
+    "href": "materials.html#lecture-10-05-nov-2025-applications-linear-regression-matrix-formulation-least-squares",
+    "title": "Materials",
+    "section": "Lecture 10 — 05 Nov 2025: Applications — Linear regression (matrix formulation, least squares)",
+    "text": "Lecture 10 — 05 Nov 2025: Applications — Linear regression (matrix formulation, least squares)\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-11-12-nov-2025-probability-i-counting-axioms-conditional-probability",
+    "href": "materials.html#lecture-11-12-nov-2025-probability-i-counting-axioms-conditional-probability",
+    "title": "Materials",
+    "section": "Lecture 11 — 12 Nov 2025: Probability I — Counting, axioms, conditional probability",
+    "text": "Lecture 11 — 12 Nov 2025: Probability I — Counting, axioms, conditional probability\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-12-19-nov-2025-probability-ii-bayes-rule-independence-simpsons-paradox",
+    "href": "materials.html#lecture-12-19-nov-2025-probability-ii-bayes-rule-independence-simpsons-paradox",
+    "title": "Materials",
+    "section": "Lecture 12 — 19 Nov 2025: Probability II — Bayes’ rule, independence, Simpson’s paradox",
+    "text": "Lecture 12 — 19 Nov 2025: Probability II — Bayes’ rule, independence, Simpson’s paradox\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-13-26-nov-2025-probability-iii-random-variables-distributions-cdfs",
+    "href": "materials.html#lecture-13-26-nov-2025-probability-iii-random-variables-distributions-cdfs",
+    "title": "Materials",
+    "section": "Lecture 13 — 26 Nov 2025: Probability III — Random variables & distributions; CDFs",
+    "text": "Lecture 13 — 26 Nov 2025: Probability III — Random variables & distributions; CDFs\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  },
+  {
+    "objectID": "materials.html#lecture-14-03-dec-2025-probability-iv-lln-clt-intuition-sampling-distributions-simple-estimators-final-qa",
+    "href": "materials.html#lecture-14-03-dec-2025-probability-iv-lln-clt-intuition-sampling-distributions-simple-estimators-final-qa",
+    "title": "Materials",
+    "section": "Lecture 14 — 03 Dec 2025: Probability IV — LLN & CLT (intuition); sampling distributions & simple estimators; Final Q&A",
+    "text": "Lecture 14 — 03 Dec 2025: Probability IV — LLN & CLT (intuition); sampling distributions & simple estimators; Final Q&A\n\nSlides: PDF — coming soon \nExercises: PDF — coming soon  | Solutions: PDF — coming soon"
+  }
+]
