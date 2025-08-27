@@ -7,35 +7,34 @@ format:
 editor: visual
 ---
 
-- **Download Syllabus:** [PDF](files/syllabus_BAS_CDSS_25.pdf)
+-   **Download Syllabus:** [PDF](files/syllabus_BAS_CDSS_25.pdf)
 
-::: {.callout-note}
-**Lecture Time & Room**
-Wednesdays 15:30–17:00, weekly from **03.09.2025** to **03.12.2025**  
+::: callout-note
+**Lecture Time & Room** Wednesdays 15:30–17:00, weekly from **03.09.2025** to **03.12.2025**\
 **Room:** C 216 Seminarraum (A 5, 6 Bauteil C)
 :::
 
 ## Schedule (Fall 2025)
 
-- **Lecture 1 — 03.09.2025** — Introduction; Set Theory and Logic  
-- **Lecture 2 — 10.09.2025** — Functions and Mappings  
-- **Lecture 3 — 17.09.2025** — Analysis I: Norms, Distances, Continuity  
-- **Lecture 4 — 24.09.2025** — Analysis II: Differentiation in $\mathbb{R}$ and $\mathbb{R}^n$; partial derivatives, gradients, *chain rule*  
-- **Lecture 5 — 01.10.2025** — Analysis III: **Unconstrained optimization** (critical points; first/second-derivative tests; practical examples)  
-- **Lecture 6 — 08.10.2025** — Analysis IV: Integration Techniques and Applications  
-- **Lecture 7 — 15.10.2025** — Linear Algebra I: Vectors, Matrices, Linear Systems  
-- **Lecture 8 — 22.10.2025** — Linear Algebra II: Matrix Operations, Inverses, Determinants  
-- **Lecture 9 — 29.10.2025** — Linear Algebra III: Eigenvalues and Eigenvectors  
-- **Lecture 10 — 05.11.2025** — Applications: Linear Regression (matrix formulation, least squares)  
-- **Lecture 11 — 12.11.2025** — Probability I: Counting, Probability Axioms, Conditional Probability  
-- **Lecture 12 — 19.11.2025** — Probability II: Bayes’ Law, Independence, Simpson’s Paradox  
-- **Lecture 13 — 26.11.2025** — Probability III: Random Variables, Distributions, CDFs  
-- **Lecture 14 — 03.12.2025** — Final Q&A and Exam Preparation
+-   **Lecture 1 — 03.09.2025** — Introduction; Set Theory and Logic\
+-   **Lecture 2 — 10.09.2025** — Functions and Mappings\
+-   **Lecture 3 — 17.09.2025** — Analysis I: Norms, Distances, Continuity\
+-   **Lecture 4 — 24.09.2025** — Analysis II: Differentiation in $\mathbb{R}$ and $\mathbb{R}^n$; partial derivatives, gradients, chain rule\
+-   **Lecture 5 — 01.10.2025** — Analysis III: Unconstrained optimization (critical points; first/second-derivative tests; practical examples)\
+-   **Lecture 6 — 08.10.2025** — Analysis IV: Integration Techniques and Applications\
+-   **Lecture 7 — 15.10.2025** — Linear Algebra I: Vectors, Matrices, Linear Systems\
+-   **Lecture 8 — 22.10.2025** — Linear Algebra II: Matrix Operations, Inverses, Determinants\
+-   **Lecture 9 — 29.10.2025** — Linear Algebra III: Eigenvalues and Eigenvectors\
+-   **Lecture 10 — 05.11.2025** — Applications: Linear Regression (matrix formulation, least squares)\
+-   **Lecture 11 — 12.11.2025** — Probability I: Counting, Probability Axioms, Conditional Probability\
+-   **Lecture 12 — 19.11.2025** — Probability II: Bayes’ Law, Independence, Simpson’s Paradox\
+-   **Lecture 13 — 26.11.2025** — Probability III: Random Variables, Distributions, CDFs\
+-   **Lecture 14 — 03.12.2025** — Final Q&A and Exam Preparation
 
 ## Contents
 
-- **Set Theory:** subsets, indexed families, Cartesian product; relations & operations; propositional logic, truth tables, implications, equivalence  
-- **Functions:** identity and inverse; injective/surjective/bijective; composition  
-- **Analysis:** distances, norms, continuity; limits; poly/exp/log; differentiation in $\mathbb{R}$ and $\mathbb{R}^n$ (partials, *chain rule*); **unconstrained** maxima/minima (1st/2nd derivative tests); integration (substitution, parts; applications incl. densities); linear-regression application *(if time permits)*  
-- **Linear Algebra:** vectors/matrices; SLEs & Gaussian elimination; inverses; diagonal/triangular/symmetric; trace, determinant, eigenvalues/eigenvectors  
-- **Probability:** counting; LOTP; conditional probability & Bayes’ Law; Simpson’s paradox; independence; discrete/continuous RVs; PMF/PDF/CDF
+-   **Set Theory:** subsets, indexed families, Cartesian product; relations & operations; propositional logic, truth tables, implications, equivalence\
+-   **Functions:** identity and inverse; injective/surjective/bijective; composition\
+-   **Analysis:** distances, norms, continuity; limits; poly/exp/log; differentiation in $\mathbb{R}$ and $\mathbb{R}^n$ (partials, *chain rule*); **unconstrained** maxima/minima (1st/2nd derivative tests); integration (substitution, parts; applications incl. densities); linear-regression application *(if time permits)*\
+-   **Linear Algebra:** vectors/matrices; SLEs & Gaussian elimination; inverses; diagonal/triangular/symmetric; trace, determinant, eigenvalues/eigenvectors\
+-   **Probability:** counting; LOTP; conditional probability & Bayes’ Law; Simpson’s paradox; independence; discrete/continuous RVs; PMF/PDF/CDF

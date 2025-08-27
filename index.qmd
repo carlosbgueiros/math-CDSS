@@ -15,30 +15,30 @@ format:
 editor: visual
 ---
 
-
 ## Course Description
 
 It is increasingly important for modern social scientists to have a level of mathematical literacy, as mathematical research methods such as statistics and formal modeling have entered the mainstream. This course is intended to provide an introduction to mathematical logic and rigor, and to some fundamental mathematical concepts that form the foundation of the modern subject. The course covers introductory set and function theory, including analysis of functions, and includes sections on both probability and linear algebra, which together are the basis of data analysis.
 
 ## Course Objectives
 
-- To obtain confidence with mathematical language and notation  
-- To learn essential mathematical principles and thought  
-- To learn or revise specific mathematical concepts necessary for quantitative work, such as matrix algebra, differentiation, and probability theory
+-   To obtain confidence with mathematical language and notation\
+-   To learn essential mathematical principles and thought\
+-   To learn or revise specific mathematical concepts necessary for quantitative work, such as matrix algebra, differentiation, and probability theory
 
 ## Course Structure
 
 Weekly 90-minute lectures with worked examples. Optional problem sets help prepare for the exam; answer keys provide final results (not full derivations). Short readings will be circulated—please review them and the slides before class.
 
-::: {.callout-tip}
+::: callout-tip
 ### Quick links
-- **Syllabus (dates & contents):** [Open Syllabus](syllabus.qmd)  
-- **Materials (slides & problem sets):** [Open Materials](materials.qmd)
+
+-   **Syllabus (dates & contents):** [Open Syllabus](syllabus.qmd)\
+-   **Materials (slides & problem sets):** [Open Materials](materials.qmd)
 :::
 
 ## Contact
 
-**Instructor:** Carlos Gueiros  
-**Email:** <cgueiros@uni-mannheim.de>  
-**Office Hours:** Tue 10:00–11:30 (please email for appointment; other hours also possible)  
+**Instructor:** Carlos Gueiros\
+**Email:** [cgueiros\@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de){.email}\
+**Office Hours:** Tue 10:00–11:30 (please email for appointment; other hours also possible)\
 **Office:** B301, A5 6, Mannheim
