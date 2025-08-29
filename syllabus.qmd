@@ -35,6 +35,6 @@ editor: visual
 
 -   **Set Theory:** subsets, indexed families, Cartesian product; relations & operations; propositional logic, truth tables, implications, equivalence\
 -   **Functions:** identity and inverse; injective/surjective/bijective; composition\
--   **Analysis:** distances, norms, continuity; limits; poly/exp/log; differentiation in $\mathbb{R}$ and $\mathbb{R}^n$ (partials, *chain rule*); **unconstrained** maxima/minima (1st/2nd derivative tests); integration (substitution, parts; applications incl. densities); linear-regression application *(if time permits)*\
+-   **Analysis:** distances, norms, continuity; limits; poly/exp/log; differentiation in $\mathbb{R}$ and $\mathbb{R}^n$ (partials, chain rule); unconstrained maxima/minima (1st/2nd derivative tests); integration (substitution, parts; applications incl. densities); linear-regression application *(if time permits)*\
 -   **Linear Algebra:** vectors/matrices; SLEs & Gaussian elimination; inverses; diagonal/triangular/symmetric; trace, determinant, eigenvalues/eigenvectors\
 -   **Probability:** counting; LOTP; conditional probability & Bayes’ Law; Simpson’s paradox; independence; discrete/continuous RVs; PMF/PDF/CDF
