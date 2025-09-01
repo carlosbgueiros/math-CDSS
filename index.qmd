@@ -16,12 +16,11 @@ editor: visual
 ---
 
 ::: callout-important
-**Survey Reminder**  
-Do not forget to take part in the survey for a short study on social science students and their perception of math — open until early next week!  
+**Survey Reminder**\
+Do not forget to take part in the survey for a short study on social science students and their perception of math!
 
 [👉 Take the Survey](https://www.soscisurvey.de/math-survey/)
 :::
-
 
 ## Course Description
 

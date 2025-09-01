@@ -13,13 +13,10 @@ Slides and problem sets will appear here as they’re released. Solutions contai
 
 #### Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec01-intro.pdf -->
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps01-set-theory.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol01-set-theory.pdf -->
+-   **Slides:** [PDF - Part 1](files/Math_for_Social_Scientists_2025-part1_ Logic_Sets_Functions.pdf)
+-   **Exercises:** [PDF](files/exercises/exercise01.pdf) \| **Solutions:** [PDF](files/solutions/solution01.pdf) 
 
 #### Lecture 2 — 10 Sep 2025: Functions & Mappings
-
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec02-functions.pdf -->
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps02-functions.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol02-functions.pdf -->
 
 #### Lecture 3 — 17 Sep 2025: Analysis I — Norms, Distances, Continuity
 
@@ -76,7 +73,7 @@ Slides and problem sets will appear here as they’re released. Solutions contai
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec13-prob-III.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps13-prob-III.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol13-prob-III.pdf -->
 
-#### Lecture 14 — 03 Dec 2025: Probability IV; Final Q&A
+#### Lecture 14 — 03 Dec 2025: Final Q&A and Exam Preparation
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec14-prob-IV.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps14-prob-IV.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol14-prob-IV.pdf -->
