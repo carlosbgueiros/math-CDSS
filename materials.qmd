@@ -13,8 +13,9 @@ Slides and problem sets will appear here as they’re released. Solutions contai
 
 #### Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic
 
--   **Slides:** [PDF - Part 1](files/Math_for_Social_Scientists_2025-part1_ Logic_Sets_Functions.pdf)
--   **Exercises:** [PDF](files/exercises/exercise01.pdf) \| **Solutions:** [PDF](files/solutions/solution01.pdf) 
+-   **Slides:** [PDF - Introduction](files/Math_for_Social_Scientists_2025-part0_intro.pdf)
+-   **Slides:** [PDF - Part 1](files/Math_for_Social_Scientists_2025-part1_%20Logic_Sets_Functions.pdf)
+-   **Exercises:** [PDF](files/exercises/exercise01.pdf) \| **Solutions:** [PDF](files/solutions/solution01.pdf)
 
 #### Lecture 2 — 10 Sep 2025: Functions & Mappings
 
