@@ -11,6 +11,15 @@ editor: visual
 Slides and problem sets will appear here as they’re released. Solutions contain final answers only (not full derivations).
 :::
 
+::: callout-tip
+**Multilingual Math Glossary**
+
+The book below (in German) has a useful *Kleines Wörterbuch* appendix listing mathematical terms in four languages: English, German, French, and Russian.
+
+[📘 Mathematik Grundlagen](https://statmath.wu.ac.at/people/leydold/Mathematik_Grundlagen/download/Mathematik_Grundlagen_2.pdf)
+:::
+
+
 #### Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic
 
 -   **Slides:** [PDF - Introduction](files/Math_for_Social_Scientists_2025-part0_intro.pdf)
