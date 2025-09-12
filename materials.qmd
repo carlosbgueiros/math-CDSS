@@ -19,7 +19,6 @@ The book below (in German) has a useful *Kleines Wörterbuch* appendix listing m
 [📘 Mathematik Grundlagen](https://statmath.wu.ac.at/people/leydold/Mathematik_Grundlagen/download/Mathematik_Grundlagen_2.pdf)
 :::
 
-
 #### Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic
 
 -   **Slides:** [PDF - Introduction](files/Math_for_Social_Scientists_2025-part0_intro.pdf)
@@ -28,17 +27,17 @@ The book below (in German) has a useful *Kleines Wörterbuch* appendix listing m
 
 #### Lecture 2 — 10 Sep 2025: Functions & Mappings
 
-#### Lecture 3 — 17 Sep 2025: Analysis I — Norms, Distances, Continuity
+#### Lecture 3 — 17 Sep 2025: Analysis I — Sequences, Limits and Continuity
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec03-analysis-I.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps03-analysis-I.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol03-analysis-I.pdf -->
 
-#### Lecture 4 — 24 Sep 2025: Analysis II — Differentiation; partials; gradients; chain rule
+#### Lecture 4 — 24 Sep 2025: Analysis II — Derivatives
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec04-analysis-II.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps04-analysis-II.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol04-analysis-II.pdf -->
 
-#### Lecture 5 — 01 Oct 2025: Unconstrained optimization
+#### Lecture 5 — 01 Oct 2025: (Un)constrained optimization
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec05-unconstrained-optimization.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps05-unconstrained-optimization.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol05-unconstrained-optimization.pdf -->

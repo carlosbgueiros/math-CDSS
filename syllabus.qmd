@@ -18,8 +18,8 @@ editor: visual
 
 -   **Lecture 1 — 03.09.2025** — Introduction; Set Theory and Logic\
 -   **Lecture 2 — 10.09.2025** — Functions and Mappings\
--   **Lecture 3 — 17.09.2025** — Analysis I: Norms, Distances, Continuity\
--   **Lecture 4 — 24.09.2025** — Analysis II: Differentiation in $\mathbb{R}$ and $\mathbb{R}^n$; partial derivatives, gradients, chain rule\
+-   **Lecture 3 — 17.09.2025** — Analysis I: Sequences, Limits and Continuity\
+-   **Lecture 4 — 24.09.2025** — Analysis II: Derivatives\
 -   **Lecture 5 — 01.10.2025** — Analysis III: Unconstrained optimization (critical points; first/second-derivative tests; practical examples)\
 -   **Lecture 6 — 08.10.2025** — Analysis IV: Integration Techniques and Applications\
 -   **Lecture 7 — 15.10.2025** — Linear Algebra I: Vectors, Matrices, Linear Systems\
