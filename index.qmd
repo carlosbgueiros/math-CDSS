@@ -15,6 +15,7 @@ format:
 editor: visual
 ---
 
+```{=html}
 <!--
 ::: callout-important
 **Survey Reminder**\
@@ -24,7 +25,7 @@ Do not forget to take part in the survey for a short study on social science stu
 :::
 
 -->
-
+```
 
 ## Course Description
 
