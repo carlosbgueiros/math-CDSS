@@ -91,5 +91,5 @@ The book below (in German) has a useful *Kleines Wörterbuch* appendix listing m
 
 -   Discrete Mathematics - [Book](https://discrete.openmathbooks.org/dmoi4.html)
     -   Text and exercises on Sets, Functions, Logic and Proofs.
--   Math Cheat Sheets  - [Link](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
+-   Math Cheat Sheets - [Link](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
 -   A primer on complex numbers - [Link](https://tutorial.math.lamar.edu/Extras/ComplexPrimer/ComplexNumbers.aspx)
