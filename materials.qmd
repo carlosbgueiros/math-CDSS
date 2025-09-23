@@ -26,21 +26,18 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 4 — 24 Sep 2025: Analysis II — Derivatives
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec04-analysis-II.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part2_Derivatives.pdf)
 -   **Exercises:** [PDF](files/exercises/exercises3.pdf) \| **Solutions:** [PDF](files/solutions/solutions3.pdf)
-
 
 #### Lecture 5 — 01 Oct 2025: (Un)constrained optimization
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec05-unconstrained-optimization.pdf -->
 -   **Exercises:** [PDF](files/exercises/exercises4.pdf) \| **Solutions:** [PDF](files/solutions/solutions4.pdf)
 
-
 #### Lecture 6 — 08 Oct 2025: Integration
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec06-integration.pdf -->
 -   **Exercises:** [PDF](files/exercises/exercises5.pdf) \| **Solutions:** [PDF](files/solutions/solutions5.pdf)
-
 
 #### Lecture 7 — 15 Oct 2025: Linear Algebra I
 
