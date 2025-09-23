@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cc63fce9873912f1bbbccf05079cc9ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">BAS: Mathematics for Social Scientists</span>
     </a>
@@ -178,21 +181,21 @@ Note
 <h4 class="anchored" data-anchor-id="lecture-4-24-sep-2025-analysis-ii-derivatives">Lecture 4 — 24 Sep 2025: Analysis II — Derivatives</h4>
 <ul>
 <li><strong>Slides:</strong> <em>PDF — coming soon</em> <!-- files/slides/lec04-analysis-II.pdf --></li>
-<li><strong>Exercises:</strong> <em>PDF — coming soon</em> <!-- files/exercises/ps04-analysis-II.pdf --> | <strong>Solutions:</strong> <em>PDF — coming soon</em> <!-- files/solutions/sol04-analysis-II.pdf --></li>
+<li><strong>Exercises:</strong> <a href="files/exercises/exercises3.pdf">PDF</a> | <strong>Solutions:</strong> <a href="files/solutions/solutions3.pdf">PDF</a></li>
 </ul>
 </section>
 <section id="lecture-5-01-oct-2025-unconstrained-optimization" class="level4">
 <h4 class="anchored" data-anchor-id="lecture-5-01-oct-2025-unconstrained-optimization">Lecture 5 — 01 Oct 2025: (Un)constrained optimization</h4>
 <ul>
 <li><strong>Slides:</strong> <em>PDF — coming soon</em> <!-- files/slides/lec05-unconstrained-optimization.pdf --></li>
-<li><strong>Exercises:</strong> <em>PDF — coming soon</em> <!-- files/exercises/ps05-unconstrained-optimization.pdf --> | <strong>Solutions:</strong> <em>PDF — coming soon</em> <!-- files/solutions/sol05-unconstrained-optimization.pdf --></li>
+<li><strong>Exercises:</strong> <a href="files/exercises/exercises4.pdf">PDF</a> | <strong>Solutions:</strong> <a href="files/solutions/solutions4.pdf">PDF</a></li>
 </ul>
 </section>
 <section id="lecture-6-08-oct-2025-integration" class="level4">
 <h4 class="anchored" data-anchor-id="lecture-6-08-oct-2025-integration">Lecture 6 — 08 Oct 2025: Integration</h4>
 <ul>
 <li><strong>Slides:</strong> <em>PDF — coming soon</em> <!-- files/slides/lec06-integration.pdf --></li>
-<li><strong>Exercises:</strong> <em>PDF — coming soon</em> <!-- files/exercises/ps06-integration.pdf --> | <strong>Solutions:</strong> <em>PDF — coming soon</em> <!-- files/solutions/sol06-integration.pdf --></li>
+<li><strong>Exercises:</strong> <a href="files/exercises/exercises5.pdf">PDF</a> | <strong>Solutions:</strong> <a href="files/solutions/solutions5.pdf">PDF</a></li>
 </ul>
 </section>
 <section id="lecture-7-15-oct-2025-linear-algebra-i" class="level4">
@@ -332,13 +335,14 @@ Tip
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
