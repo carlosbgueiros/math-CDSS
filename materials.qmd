@@ -27,7 +27,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 #### Lecture 4 — 24 Sep 2025: Analysis II — Derivatives
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part2_Derivatives.pdf)
--   **Exercises:** [PDF](files/exercises/exercises3.pdf) \| **Solutions:** [PDF](files/solutions/solutions3.pdf)
+-   **Exercises:** [PDF](files/exercises/exercises3.pdf) \| **Solutions:** [PDF](files/solutions/solutions3.pdf) v2
 
 #### Lecture 5 — 01 Oct 2025: (Un)constrained optimization
 
