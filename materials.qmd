@@ -31,7 +31,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 5 — 01 Oct 2025: (Un)constrained optimization
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec05-unconstrained-optimization.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part2_Optimization.pdf)
 -   **Exercises:** [PDF](files/exercises/exercises4.pdf) \| **Solutions:** [PDF](files/solutions/solutions4.pdf)
 
 #### Lecture 6 — 08 Oct 2025: Integration
