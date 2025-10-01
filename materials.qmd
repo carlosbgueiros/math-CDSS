@@ -36,7 +36,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 6 — 08 Oct 2025: Integration
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec06-integration.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part2_Integrals.pdf)
 -   **Exercises:** [PDF](files/exercises/exercises5.pdf) \| **Solutions:** [PDF](files/solutions/solutions5.pdf)
 
 #### Lecture 7 — 15 Oct 2025: Linear Algebra I
