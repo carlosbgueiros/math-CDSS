@@ -34,42 +34,41 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part2_Optimization.pdf)
 -   **Exercises:** [PDF](files/exercises/exercises4.pdf) \| **Solutions:** [PDF](files/solutions/solutions4.pdf)
 
-#### Lecture 6 — 08 Oct 2025: Integration
+#### Lecture 6 — 08 Oct 2025: Integrals
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part2_Integrals.pdf)
 -   **Exercises:** [PDF](files/exercises/exercises5.pdf) \| **Solutions:** [PDF](files/solutions/solutions5.pdf)
 
-#### Lecture 7 — 15 Oct 2025: Linear Algebra I
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec07-la-I.pdf -->
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps07-la-I.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol07-la-I.pdf -->
+#### Lecture 7 — 15 Oct 2025: Mid-course Recap & Q&A
 
-#### Lecture 8 — 22 Oct 2025: Linear Algebra II
+
+#### Lecture 8 — 22 Oct 2025: Linear Algebra I
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec08-la-II.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps08-la-II.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol08-la-II.pdf -->
 
-#### Lecture 9 — 29 Oct 2025: Linear Algebra III
+#### Lecture 9 — 29 Oct 2025: Linear Algebra II
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec09-la-III.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps09-la-III.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol09-la-III.pdf -->
 
-#### Lecture 10 — 05 Nov 2025: Linear Regression (least squares)
+#### Lecture 10 — 05 Nov 2025: Linear Algebra III 
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec10-ols.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps10-ols.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol10-ols.pdf -->
 
-#### Lecture 11 — 12 Nov 2025: Probability I
+#### Lecture 11 — 12 Nov 2025: Linear Regression (least squares) and Probability 
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec11-prob-I.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps11-prob-I.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol11-prob-I.pdf -->
 
-#### Lecture 12 — 19 Nov 2025: Probability II
+#### Lecture 12 — 19 Nov 2025: Probability I
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec12-prob-II.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps12-prob-II.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol12-prob-II.pdf -->
 
-#### Lecture 13 — 26 Nov 2025: Probability III
+#### Lecture 13 — 26 Nov 2025: Probability II
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec13-prob-III.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps13-prob-III.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol13-prob-III.pdf -->
