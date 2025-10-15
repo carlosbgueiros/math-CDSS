@@ -41,6 +41,9 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 7 — 15 Oct 2025: Mid-course Recap & Q&A
 
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-mid_recap.pdf)
+
+
 #### Lecture 8 — 22 Oct 2025: Linear Algebra I
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec08-la-II.pdf -->
