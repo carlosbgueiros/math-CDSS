@@ -43,11 +43,10 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-mid_recap.pdf)
 
-
 #### Lecture 8 — 22 Oct 2025: Linear Algebra I
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec08-la-II.pdf -->
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps08-la-II.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol08-la-II.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3_Vectors_Matrices.pdf)
+-   **Exercises:** [PDF](files/exercises/exercises6.pdf) \| **Solutions:** [PDF](files/solutions/solutions6.pdf)
 
 #### Lecture 9 — 29 Oct 2025: Linear Algebra II
 
