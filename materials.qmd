@@ -50,8 +50,8 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 9 — 29 Oct 2025: Linear Algebra II
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec09-la-III.pdf -->
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps09-la-III.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol09-la-III.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3_SLE.pdf)
+-   **Exercises:** [PDF](files/exercises/exercises7.pdf) \| **Solutions:** [PDF](files/solutions/solutions7.pdf)
 
 #### Lecture 10 — 05 Nov 2025: Linear Algebra III
 
