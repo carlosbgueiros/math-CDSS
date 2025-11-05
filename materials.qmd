@@ -55,7 +55,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 10 — 05 Nov 2025: Linear Algebra III
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec10-ols.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3_Inverse_eigenvalues_vectors.pdf)
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps10-ols.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol10-ols.pdf -->
 
 #### Lecture 11 — 12 Nov 2025: Linear Regression (least squares) and Probability
