@@ -58,11 +58,10 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3_Inverse_eigenvalues_vectors.pdf) - v2
 -   **Exercises:** [PDF](files/exercises/exercises8.pdf) \| **Solutions:** [PDF](files/solutions/solutions8.pdf)
 
+#### Lecture 11 — 12 Nov 2025: The Linear Algebra (and Calculus) of Linear Regression
 
-#### Lecture 11 — 12 Nov 2025: Linear Regression (least squares) and Probability
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3-Applications_Lin_Reg.pdf)
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec11-prob-I.pdf -->
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps11-prob-I.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol11-prob-I.pdf -->
 
 #### Lecture 12 — 19 Nov 2025: Probability I
 
