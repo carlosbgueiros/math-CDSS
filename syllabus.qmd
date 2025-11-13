@@ -16,20 +16,21 @@ editor: visual
 
 ## Schedule (Fall 2025)
 
--   **Lecture 1 — 03.09.2025** — Introduction; Set Theory and Logic\
--   **Lecture 2 — 10.09.2025** — Functions and Mappings\
+-   **Lecture 1 — 03.09.2025** — Introduction; Set Theory & Logic\
+-   **Lecture 2 — 10.09.2025** — Functions & Mappings\
 -   **Lecture 3 — 17.09.2025** — Analysis I: Sequences, Limits and Continuity\
 -   **Lecture 4 — 24.09.2025** — Analysis II: Derivatives\
--   **Lecture 5 — 01.10.2025** — Analysis III: Unconstrained optimization (critical points; first/second-derivative tests; practical examples)\
--   **Lecture 6 — 08.10.2025** — Analysis IV: Integration Techniques and Applications\
--   **Lecture 7 — 15.10.2025** — Linear Algebra I: Vectors, Matrices, Linear Systems\
--   **Lecture 8 — 22.10.2025** — Linear Algebra II: Matrix Operations, Inverses, Determinants\
--   **Lecture 9 — 29.10.2025** — Linear Algebra III: Eigenvalues and Eigenvectors\
--   **Lecture 10 — 05.11.2025** — Applications: Linear Regression (matrix formulation, least squares)\
--   **Lecture 11 — 12.11.2025** — Probability I: Counting, Probability Axioms, Conditional Probability\
--   **Lecture 12 — 19.11.2025** — Probability II: Bayes’ Law, Independence, Simpson’s Paradox\
--   **Lecture 13 — 26.11.2025** — Probability III: Random Variables, Distributions, CDFs\
+-   **Lecture 5 — 01.10.2025** — (Un)constrained optimization\
+-   **Lecture 6 — 08.10.2025** — Integrals\
+-   **Lecture 7 — 15.10.2025** — Mid-course Recap & Q&A\
+-   **Lecture 8 — 22.10.2025** — Linear Algebra I\
+-   **Lecture 9 — 29.10.2025** — Linear Algebra II\
+-   **Lecture 10 — 05.11.2025** — Linear Algebra III\
+-   **Lecture 11 — 12.11.2025** — The Linear Algebra (and Calculus) of Linear Regression\
+-   **Lecture 12 — 19.11.2025** — Probability I\
+-   **Lecture 13 — 26.11.2025** — Probability II\
 -   **Lecture 14 — 03.12.2025** — Final Q&A and Exam Preparation
+
 
 ## Contents
 

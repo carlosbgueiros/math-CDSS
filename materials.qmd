@@ -62,7 +62,6 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3-Applications_Lin_Reg.pdf)
 
-
 #### Lecture 12 — 19 Nov 2025: Probability I
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec12-prob-II.pdf -->
@@ -77,6 +76,11 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec14-prob-IV.pdf -->
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps14-prob-IV.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol14-prob-IV.pdf -->
+
+#### Mock Exam
+
+-   **Mock Exam:** [PDF](files/math_social_science_2025_mock_exam.pdf)
+-   **Mock Exam Solutions:** [PDF](files/math_social_science_2025_mock_exam_solutions.pdf)
 
 ::: callout-tip
 **Multilingual Math Glossary**
