@@ -61,6 +61,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 #### Lecture 11 — 12 Nov 2025: The Linear Algebra (and Calculus) of Linear Regression
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3-Applications_Lin_Reg.pdf)
+-   **Example:** [PDF](files/Exercise_Example_Lin_Reg.pdf)
 
 #### Lecture 12 — 19 Nov 2025: Probability I
 
