@@ -26,11 +26,10 @@ editor: visual
 -   **Lecture 8 — 22.10.2025** — Linear Algebra I\
 -   **Lecture 9 — 29.10.2025** — Linear Algebra II\
 -   **Lecture 10 — 05.11.2025** — Linear Algebra III\
--   **Lecture 11 — 12.11.2025** — The Linear Algebra (and Calculus) of Linear Regression\
--   **Lecture 12 — 19.11.2025** — Probability I\
--   **Lecture 13 — 26.11.2025** — Probability II\
+-   **Lecture 11 — 12.11.2025** — Linear Algebra IV (and Calculus) of Linear Regression I\
+-   **Lecture 12 — 19.11.2025** — The Linear Algebra (and Calculus) of Linear Regression II\
+-   **Lecture 13 — 26.11.2025** — Introduction to Probability\
 -   **Lecture 14 — 03.12.2025** — Final Q&A and Exam Preparation
-
 
 ## Contents
 
