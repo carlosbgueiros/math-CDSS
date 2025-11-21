@@ -55,7 +55,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 10 — 05 Nov 2025: Linear Algebra III
 
--   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3_Inverse_eigenvalues_vectors.pdf) - v2
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3_Inverse_eigenvalues_vectors_v3.pdf) - v3
 -   **Exercises:** [PDF](files/exercises/exercises8.pdf) \| **Solutions:** [PDF](files/solutions/solutions8.pdf)
 
 #### Lecture 11 — 12 Nov 2025: Linear Algebra IV (and Calculus) of Linear Regression I
@@ -63,7 +63,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part3-Applications_Lin_Reg.pdf)
 -   **Example:** [PDF](files/Exercise_Example_Lin_Reg.pdf)
 
-#### Lecture 12 — 19 Nov 2025: The Linear Algebra (and Calculus) of Linear Regression II 
+#### Lecture 12 — 19 Nov 2025: The Linear Algebra (and Calculus) of Linear Regression II
 
 #### Lecture 13 — 26 Nov 2025: Introduction to Probability Theory
 
@@ -73,7 +73,6 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 #### Lecture 14 — 03 Dec 2025: Final Q&A and Exam Preparation
 
 -   **Slides:** *PDF — coming soon* <!-- files/slides/lec14-prob-IV.pdf -->
-
 
 #### Mock Exam
 
