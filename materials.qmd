@@ -67,7 +67,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 13 — 26 Nov 2025: Introduction to Probability Theory
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec13-prob-III.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part4-probability.pdf)
 -   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps13-prob-III.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol13-prob-III.pdf -->
 
 #### Lecture 14 — 03 Dec 2025: Final Q&A and Exam Preparation
