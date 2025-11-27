@@ -68,7 +68,8 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 #### Lecture 13 — 26 Nov 2025: Introduction to Probability Theory
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part4-probability.pdf)
--   **Exercises:** *PDF — coming soon* <!-- files/exercises/ps13-prob-III.pdf --> \| **Solutions:** *PDF — coming soon* <!-- files/solutions/sol13-prob-III.pdf -->
+-   **Exercises:** [PDF](files/exercises/exercises9.pdf) \| **Solutions:** [PDF](files/solutions/solutions9.pdf)
+
 
 #### Lecture 14 — 03 Dec 2025: Final Q&A and Exam Preparation
 
@@ -89,6 +90,7 @@ The book below (in German) has a useful *Kleines Wörterbuch* appendix listing m
 
 ### Additional Material
 
+-   Linear algebra explained in four pages - [Link](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 -   Discrete Mathematics - [Book](https://discrete.openmathbooks.org/dmoi4.html)
     -   Text and exercises on Sets, Functions, Logic and Proofs.
 -   Math Cheat Sheets - [Link](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
