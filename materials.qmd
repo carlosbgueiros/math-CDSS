@@ -73,7 +73,7 @@ Slides and problem sets will appear here as they’re released. Most solutions c
 
 #### Lecture 14 — 03 Dec 2025: Final Q&A and Exam Preparation
 
--   **Slides:** *PDF — coming soon* <!-- files/slides/lec14-prob-IV.pdf -->
+-   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-QA_exam_prep.pdf)
 
 #### Mock Exam
 
