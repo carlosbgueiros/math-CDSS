@@ -27,11 +27,14 @@ Do not forget to take part in the survey for a short study on social science stu
 -->
 ```
 
+
+<!--
 ::: callout-important
-**No session today**  
-The exceptional in-class office hours scheduled for today (10 December 2025) are **cancelled**.  
+**No session today**\
+The exceptional in-class office hours scheduled for today (10 December 2025) are **cancelled**.\
 If you have any questions, please email me or book office hours. I will hold office hours until Monday (15 December 2025).
 :::
+-->
 
 
 ## Course Description

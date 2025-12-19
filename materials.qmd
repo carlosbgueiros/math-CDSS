@@ -7,12 +7,13 @@ format:
 editor: visual
 ---
 
+<!--
 ::: callout-important
-**No session today**  
-The exceptional in-class office hours scheduled for today (10 December 2025) are **cancelled**.  
+**No session today**\
+The exceptional in-class office hours scheduled for today (10 December 2025) are **cancelled**.\
 If you have any questions, please email me or book office hours. I will hold office hours until Monday (15 December 2025).
 :::
-
+-->
 
 #### Lecture 1 — 03 Sep 2025: Introduction; Set Theory & Logic
 
@@ -72,7 +73,6 @@ If you have any questions, please email me or book office hours. I will hold off
 
 -   **Slides:** [PDF](files/Math_for_Social_Scientists_2025-part4-probability.pdf)
 -   **Exercises:** [PDF](files/exercises/exercises9.pdf) \| **Solutions:** [PDF](files/solutions/solutions9.pdf)
-
 
 #### Lecture 14 — 03 Dec 2025: Final Q&A and Exam Preparation
 
